@@ -1,0 +1,9 @@
+{
+  "name": "github",
+  "description": "GitHub CLI skill for repository management, issues, PRs, releases, actions. Replaces GitHub MCP server (~18k tokens saved). Uses progressive disclosure with reference files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "francesco-carrella"
+  },
+  "keywords": ["github", "gh", "cli", "mcp-replacement", "repos", "issues", "prs", "actions"]
+}

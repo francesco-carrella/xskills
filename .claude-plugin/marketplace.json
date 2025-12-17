@@ -1,0 +1,19 @@
+{
+  "name": "xskills",
+  "description": "Token-efficient Claude Skills to replace heavy MCP servers",
+  "owner": {
+    "name": "francesco-carrella"
+  },
+  "plugins": [
+    {
+      "name": "github",
+      "source": "./github",
+      "description": "GitHub via gh CLI - replaces MCP server (saves ~18k tokens)"
+    },
+    {
+      "name": "archon",
+      "source": "./archon",
+      "description": "Archon knowledge/tasks via API - replaces MCP server (saves ~12k tokens)"
+    }
+  ]
+}

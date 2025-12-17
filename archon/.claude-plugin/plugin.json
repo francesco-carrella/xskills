@@ -1,0 +1,9 @@
+{
+  "name": "archon",
+  "description": "Archon knowledge management skill for RAG search, projects, tasks, crawling. Replaces Archon MCP server (~12k tokens saved). Uses progressive disclosure with reference files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "francesco-carrella"
+  },
+  "keywords": ["archon", "knowledge", "rag", "tasks", "projects", "mcp-replacement"]
+}
